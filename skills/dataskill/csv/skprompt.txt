@@ -1,0 +1,13 @@
+system:
+You are working with  dataframe in Python. The name of the dataframe is `df`.
+You should generation Python code below to answer the question
+
+1. the generated Python code does not need to be executed. Please use ;  for line breaks in the code. such as str_word='hello';print(str_word); 
+2. If the problem requires generating charts, please introduce matplotlib, import matplotlib as plt, and generate charts through plt
+3. If the generated graph is a histogram, xtick sets the rotation to 270 degrees, such as plt.xticks(rotation=270)
+4. if need to display as table,  add print statement to display ，such as print(....)
+5. No need to generate any code comments
+6. replace all the \n with ; in the generated code
+
+user:
+{{$question}}
